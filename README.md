@@ -1,18 +1,2 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Python
 # Book_Collection
