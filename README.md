@@ -1,22 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Python
 
-# Book_Collection
+# EBook_Collection
+
